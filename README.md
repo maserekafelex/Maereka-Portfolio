@@ -1,13 +1,5 @@
 <a name="readme-top"></a>
 
-<div align="center">
-
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>Microverse README Template</b></h3>
-
-</div>
 
 # 📗 Table of Contents
 
@@ -32,17 +24,16 @@
 - [📝 License](#license)
 
 
-# 📖 [Masereka-Portfolio-2] <a name="about-project"></a>
+# 📖 [Maereka-Portfolio] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+I usd flex to position my navbar
+i also used linters to rectify my errors
 
-**[Masereka-Portfolio-2]** is a...
+**[Masereka-Portfolio]** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
   <summary>Client</summary>
@@ -63,26 +54,13 @@
 
 - **[Home page]**
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://github.com/maserekafelex/Maereka-Portfolio.git)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
-
-To get a local copy up and running, follow these steps.
+> He or she can follow the linter order ofconfiguration to configure his or her linters successfully
+He can check how the icans and images are also fixed in the projects
 
 ### Prerequisites
-
-In order to run this project you need:
-
 
 ### Setup
 
@@ -91,30 +69,24 @@ If you want to clone this repository, clone into your desired folder and enter "
 
 ### Install
 
-Install this project with:
 The project is installed once you clone it on your local machine
 
 ### Usage
 
-To run the project, execute the following command:
-
 Open index.html in your browser
 ### Run tests
 
-To run tests, run the following command:
 
 npx stylelint "**/*.{css,scss}
 
 ### Deployment
 
-You can deploy this project using by transfering files in your local repository onto your saver.
+You can deploy this project by transfering files in your local repository onto your saver.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## 👥 Authors <a name="Masereksfelex">maserekafelex</a>
-
-> Mention all of the collaborators of this project.
 
 👤 **Author1**
 
@@ -125,10 +97,7 @@ You can deploy this project using by transfering files in your local repository 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 ## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] **[new_feature_1]**
 - [ ] **[new_feature_2]**
@@ -139,7 +108,7 @@ You can deploy this project using by transfering files in your local repository 
 
 ## 🤝 Contributing <a name="contributing"></a>
 
-Contributions, issues, and feature requests are welcome!
+
 
 Feel free to check the [issues page](../../issues/).
 
@@ -148,7 +117,6 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
 
 If you like this project, kindly contact me on my github:Auther(#authors)
 
@@ -158,16 +126,15 @@ If you like this project, kindly contact me on my github:Auther(#authors)
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank Microverse for the best technical training they are taking me through.
-I would like also to thank my partiners in learning and coding for better success in this program.
-I would also like to thank the code reviewers for having guided me to produce required results
+I would like to thank Microverse for the best technical training they are taking me through to succed in this project
+I thank my partiners in learning and coding for better success in this program.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
+How did this man fix the linters ?
+How was really these icans captured ?
 
 - **[Question_1]**
 
